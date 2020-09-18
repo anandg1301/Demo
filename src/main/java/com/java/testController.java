@@ -14,7 +14,7 @@ public class testController {
 	@RequestMapping(value="/hello",method = RequestMethod.GET)
 	public ModelAndView showMessage(
 			@RequestParam(value = "name", required = false, defaultValue = "World") String name) {
-		System.out.println("in controller");
+		System.out.println("in controlle");
 		ModelAndView mv = new ModelAndView("helloworld");
 		mv.addObject("message", message);
 		mv.addObject("name", name);
