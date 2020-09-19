@@ -9,7 +9,7 @@
 <body>  
 <form name="myform" method="post" action="http://www.javatpoint.com/javascriptpages/valid.jsp" onsubmit="return validateform()" >  
 Name: <input type="text" name="name"><br/>  
-Password: <input type="password" name="passwor"><br/>  
+Password: <input type="password" name="password"><br/>  
 <input type="submit" value="register">  
 </form>  
 </body>
