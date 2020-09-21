@@ -1,6 +1,6 @@
 package com.java;
 
-//developed by TT reviewed by anand...20/09/20.
+//developed by TT reviewed by anand...20/09/20..
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
